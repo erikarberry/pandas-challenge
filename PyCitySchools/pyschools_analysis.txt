@@ -1,0 +1,6 @@
+As the Chief Data Scientist at Py City Schools, I am offering three conclusions that may assist policymakers in their formulation of future school budgets and priorities. In analyzing math and reading assessment results by school, school type, and school budget, policymakers should consider:
+
+1) Academic proficiency is stronger in charter schools than district schools, therefore it is critical to find out what decision-making flexibilities are given to charter schools that district schools do not have, and which of those directly affect greater student achievement.
+2) Considering that schools with larger student enrollment are lower-performing, policymakers should consider creating smaller high schools or creating more personalized classrooms at the larger high schools.
+3) Increased school funding does not appear to have an affect on student achievement.
+
